@@ -1,12 +1,10 @@
 103.6.207.108,8080,ID,PT Pusat Media Indonesia
 172.232.238.52,443,ID,linode
-156.244.1.250,8443,ID,Lightnode Limited
 43.218.77.16,1443,ID,Amazon.com, Inc.
 172.232.248.227,587,ID,Linode
 156.244.1.250,8443,ID,Lightnode Limited
 43.218.77.16,443,ID,Amazon.com, Inc.
 172.232.234.246,443,ID,Linode
-172.232.234.155,443,ID,Linode
 203.194.112.119,2053,ID,CV. Rumahweb Indonesia
 142.111.15.104,443,ID,Evoxt (ID)
 203.194.112.119,8443,ID,CV. Rumahweb Indonesia
