@@ -1,18 +1,16 @@
 103.6.207.108,8080,ID,PT Pusat Media Indonesia
 172.232.238.52,443,ID,linode
 43.218.77.16,1443,ID,Amazon.com, Inc.
-172.232.248.227,587,ID,Linode
-156.244.1.250,8443,ID,Lightnode Limited
-43.218.77.16,443,ID,Amazon.com, Inc.
-172.232.234.246,443,ID,Linode
-203.194.112.119,2053,ID,CV. Rumahweb Indonesia
-142.111.15.104,443,ID,Evoxt (ID)
-203.194.112.119,8443,ID,CV. Rumahweb Indonesia
 149.129.250.8,443,ID,21/F, Ciputra World
 149.129.250.8,443,ID,Alibaba (US) Technology Co., Ltd.
 206.84.101.83,8443,ID,PT MITRA VISIONER PRATAMA
 172.232.238.56,443,ID,Akamai Connected Cloud
 36.95.152.58,12137,ID,PT Telekomunikasi Indonesia
+172.232.248.227,587,ID,Linode
+156.244.1.250,8443,ID,Lightnode Limited
+43.218.77.16,443,ID,Amazon.com, Inc.
+203.194.112.119,2053,ID,CV. Rumahweb Indonesia
+203.194.112.119,8443,ID,CV. Rumahweb Indonesia
 178.128.107.58,3128,SG,DigitalOcean, LLC
 139.162.4.242,8443,SG,Linode, LLC
 64.235.45.169,443,SG,Singapore SG Datacenter
