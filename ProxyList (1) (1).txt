@@ -51,13 +51,11 @@
 158.178.236.14,61731,SG,Oracle Corporation
 178.128.80.43,443,SG,DigitalOcean, LLC
 185.81.28.95,30503,SG,AkileCloud Network
-45.32.121.217,443,SG,The Constant Company, LLC
 83.142.30.134,2096,SG,Streamline Servers Pty Ltd
 84.247.150.170,8443,SG,Contabo Asia Private Limited
 158.178.246.142,61731,SG,Oracle Corporation
 83.142.30.4,2096,SG,Streamline Servers Pty Ltd
 194.36.179.17,8443,SG,FIRST SERVER LIMITED
-45.77.47.155,443,SG,The Constant Company, LLC
 140.245.48.42,443,SG,Oracle Corporation
 103.195.191.55,443,SG,Dromatics Systems Pte Ltd
 150.109.11.223,443,SG,Tencent Building, Kejizhongyi Avenue
@@ -82,7 +80,6 @@
 139.99.124.165,443,SG,OVH SAS
 139.180.154.158,443,SG,The Constant Company, LLC
 129.150.36.188,53435,SG,Oracle Corporation
-45.32.121.244,443,SG,The Constant Company, LLC
 194.36.179.5,2053,SG,FIRST SERVER LIMITED
 38.244.147.68,2053,SG,M247 Europe SRL
 143.198.196.196,8443,SG,DigitalOcean, LLC
